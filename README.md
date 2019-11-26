@@ -12,9 +12,15 @@ To complement or correct it, please contact me at bd@ideepwise.ai or send a pull
 # Overview
 
 Review
+
 Segmentation
+
 Detection
+
 Reconstruction
+
 Classification
+
 Registration
+
 Others
