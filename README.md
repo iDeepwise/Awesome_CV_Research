@@ -1,6 +1,5 @@
 # Awesome_CV_Paper
 
-# CV
 
 Awesome for Paper Reading
 
