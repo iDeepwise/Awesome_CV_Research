@@ -160,13 +160,13 @@ Others
   
   Reference: https://zhuanlan.zhihu.com/p/41825737
   
-  code:https://github.com/princeton-vl/CornerNet
+  Code:https://github.com/princeton-vl/CornerNet
 
 **3. ExtremeNet: Bottom-up Object Detection by Grouping Extreme and Center Points.**
 
   Paper: https://arxiv.org/pdf/1901.08043.pdf
   
-  code:https://github.com/xingyizhou/ExtremeNet
+  Code:https://github.com/xingyizhou/ExtremeNet
   
 **4. CenterNet：Objects as Points.**
 
@@ -174,7 +174,7 @@ Others
   
   Reference: https://www.infoq.cn/article/XUDiNPviWhHhvr6x_oMv
   
-  code:https://github.com/xingyizhou/CenterNet
+  Code:https://github.com/xingyizhou/CenterNet
   
 **5. CenterNet: Keypoint Triplets for Object Detection.**
 
@@ -182,13 +182,13 @@ Others
   
   Reference: https://zhuanlan.zhihu.com/p/66326413 
   
-  code:https://github.com/Duankaiwen/CenterNet
+  Code:https://github.com/Duankaiwen/CenterNet
 
 **6. FCOS: Fully Convolutional One-Stage Object Detection.**
 
   Paper: https://arxiv.org/abs/1904.01355.pdf
   
-  code:https://github.com/tianzhi0549/FCOS
+  Code:https://github.com/tianzhi0549/FCOS
   
   
 
