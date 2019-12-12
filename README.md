@@ -83,9 +83,47 @@ Others
   
 # Detection -- Anchor Free
 
-**1. NMS：Non-Maximum Suppression.**
+**1. DenseBox：Unifying Landmark Localization with End to End Object Detection.**
 
-  Paper: http://arxiv.org/abs/1411.5309
+  Paper: https://arxiv.org/pdf/1509.04874.pdf
   
-  Reference: https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH
+  Reference: https://blog.csdn.net/App_12062011/article/details/77941343
+  
+**2. CornerNet: Keypoint Triplets for Object Detection.**
+
+  Paper: https://arxiv.org/pdf/1808.01244.pdf
+  
+  Reference: https://zhuanlan.zhihu.com/p/41825737
+  
+  code:https://github.com/princeton-vl/CornerNet
+
+**3. ExtremeNet: Bottom-up Object Detection by Grouping Extreme and Center Points.**
+
+  Paper: https://arxiv.org/pdf/1901.08043.pdf
+  
+  code:https://github.com/xingyizhou/ExtremeNet
+  
+**4. CenterNet：Objects as Points.**
+
+  Paper: https://arxiv.org/pdf/1904.07850.pdf
+  
+  Reference: https://www.infoq.cn/article/XUDiNPviWhHhvr6x_oMv
+  
+  code:https://github.com/xingyizhou/CenterNet
+  
+**5. CenterNet: Keypoint Triplets for Object Detection.**
+
+  Paper: https://arxiv.org/pdf/1904.08189.pdf
+  
+  Reference: https://zhuanlan.zhihu.com/p/66326413 
+  
+  code:https://github.com/Duankaiwen/CenterNet
+
+**6. FCOS: Fully Convolutional One-Stage Object Detection.**
+
+  Paper: https://arxiv.org/abs/1904.01355.pdf
+  
+  code:https://github.com/tianzhi0549/FCOS
+  
+  
 
