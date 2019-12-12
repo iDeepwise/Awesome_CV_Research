@@ -79,4 +79,13 @@ Others
   Reference: https://www.zhihu.com/question/263428989
   
   Code: https://github.com/msracver/Relation-Networks-for-Object-Detection
+  
+  
+# Detection -- Anchor Free
+
+**1. NMS：Non-Maximum Suppression.**
+
+  Paper: http://arxiv.org/abs/1411.5309
+  
+  Reference: https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH
 
