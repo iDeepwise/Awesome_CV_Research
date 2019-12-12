@@ -51,6 +51,8 @@ Others
   Paper: https://eccv2018.org/openaccess/content_ECCV_2018/papers/Borui_Jiang_Acquisition_of_Localization_ECCV_2018_paper.pdf
   
   Reference: https://blog.csdn.net/qq_41648043/article/details/82716133
+  
+  Code: https://github.com/vacancy/PreciseRoIPooling
 
 **5. ConvNMS：A Convnet for Non-maximum Suppression.**
 
