@@ -80,7 +80,50 @@ Others
   
   Code: https://github.com/msracver/Relation-Networks-for-Object-Detection
   
+
+# Detection -- Scale Variation & Feature Concat
+
+**1. SNIP：An Analysis of Scale Invariance in Object Detection.**
+
+  Paper: https://arxiv.org/abs/1711.08189
   
+  Code: https://github.com/bharatsingh430/snip
+
+**2. SNIPER: Efficient Multi-Scale Training.**
+
+  Paper: https://arxiv.org/abs/1805.09300
+  
+  Code: https://github.com/mahyarnajibi/SNIPER
+
+**3. HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection.**
+
+  Paper: https://arxiv.org/abs/1604.00600
+
+**4. PAnet：Path Aggregation Network for Instance Segmentation.**
+  
+  Paper: https://arxiv.org/abs/1803.01534
+  
+  Code: https://github.com/ShuLiu1993/PANet
+
+**5. Scale-Aware Face Detection.**
+
+  Paper: https://arxiv.org/abs/1706.09876
+
+**6. Dynamic Zoom-in Network for Fast Object Detection in Large Images.**
+
+  Paper: https://arxiv.org/abs/1711.05187
+
+**7. Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection.**
+
+  Paper: https://arxiv.org/abs/1709.04347
+
+**9. Scale-Aware Trident Networks for Object Detection.**
+
+  Paper: https://arxiv.org/abs/1901.01892
+  
+  Code: https://github.com/TuSimple/simpledet/tree/master/models/tridentnet
+
+
 # Attention Variants -- Detection & Segmentation 
 
 **1. Attention is all you need.**
