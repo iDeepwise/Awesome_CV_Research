@@ -7,7 +7,7 @@ A curated list of awesome Paper resources in Deep learning and computer vision.
 
 >To complement or correct it, please send a pull request.
 
-![image](https://github.com/iDeepwise/Awesome_CV_Research/tree/master/Detection/logo.png)
+![image](https://github.com/iDeepwise/Awesome_CV_Research/blob/master/Detection/logo.png)
 
 # Overview
 
