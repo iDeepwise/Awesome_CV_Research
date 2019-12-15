@@ -235,4 +235,116 @@ Others
   Code:https://github.com/tianzhi0549/FCOS
   
   
+#  Lightweight Network Structure
 
+**1. SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.**
+
+  Paper: https://arxiv.org/abs/1602.07360
+
+  Code: https://github.com/forresti/SqueezeNet
+
+**2. Densely Connected Convolutional Networks.**
+
+  Paper: https://arxiv.org/pdf/1608.06993.pdf
+  
+  Reference: https://blog.csdn.net/u014380165/article/details/75142664
+  
+  Code: https://github.com/liuzhuang13/DenseNet
+
+**3. Xception: Deep Learning with Depthwise Separable Convolutions.**
+
+  Paper: https://arxiv.org/abs/1610.02357
+  
+  Reference: https://blog.csdn.net/u014380165/article/details/75142710
+  
+  Code: https://github.com/yihui-he/Xception-caffe
+
+**4. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.**
+
+  Paper: https://arxiv.org/abs/1704.04861
+
+  Reference: https://blog.csdn.net/qq_31914683/article/details/79330343
+  
+  Code: https://github.com/Zehaos/MobileNet
+        https://github.com/shicai/MobileNet-Caffe
+  
+**5. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.**
+
+  Paper: https://arxiv.org/abs/1707.01083
+  
+  Reference: https://blog.csdn.net/u014380165/article/details/75137111
+  
+  Code: https://github.com/farmingyard/ShuffleNet
+
+**6. NASNet：Learning Transferable Architectures for Scalable Image Recognition.**
+
+  Paper: https://arxiv.org/abs/1707.07012
+  
+  Reference: https://blog.csdn.net/xjz18298268521/article/details/79079008
+             https://zhuanlan.zhihu.com/p/52616166
+  
+  Code: https://github.com/yeephycho/nasnet-tensorflow
+
+**7. CondenseNet: An Efficient DenseNet using Learned Group Convolutions.**
+
+  Paper: https://arxiv.org/abs/1711.09224
+  
+  Reference: https://blog.csdn.net/u014380165/article/details/78747711
+  
+  Code: https://github.com/ShichenLiu/CondenseNet
+
+**8. MobileNetV2: Inverted Residuals and Linear Bottlenecks.**
+
+  Paper: https://arxiv.org/abs/1801.04381
+  
+  Reference: https://www.cnblogs.com/hejunlin1992/p/9395345.html
+  
+  Code: https://github.com/xiaochus/MobileNetV2
+
+**9. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design.**
+
+  Paper: https://arxiv.org/abs/1807.11164
+  
+  Reference: https://zhuanlan.zhihu.com/p/48261931
+  
+  Code: https://github.com/farmingyard/ShuffleNet
+
+**10. MnasNet: Platform-Aware Neural Architecture Search for Mobile.**
+
+  Paper: https://arxiv.org/abs/1807.11626
+  
+  Reference: https://zhuanlan.zhihu.com/p/42474017
+  
+  Code: https://github.com/AnjieZheng/MnasNet-PyTorch
+
+**11. ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware.**
+
+  Paper: https://arxiv.org/abs/1812.00332
+  
+  Reference: https://www.cnblogs.com/wangxiaocvpr/p/10559377.html
+  
+  Code: https://github.com/MIT-HAN-LAB/ProxylessNAS
+
+**12. Searching for MobileNetV3.**
+
+  Paper: https://arxiv.org/abs/1905.02244v2
+  
+  Reference: https://blog.csdn.net/sinat_37532065/article/details/90813655
+  
+  Code: https://github.com/xiaolai-sqlai/mobilenetv3
+  
+**13. MixConv: Mixed Depthwise Convolutional Kernels.**
+
+  Paper: https://arxiv.org/abs/1907.09595
+  
+  Reference: https://zhuanlan.zhihu.com/p/75242090
+  
+  Code: https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet
+
+**14. MoGA: Searching Beyond MobileNetV3.**
+
+  Paper: https://arxiv.org/pdf/1908.01314.pdf
+  
+  Reference: https://zhuanlan.zhihu.com/p/76909380
+  
+  Code: https://github.com/xiaomi-automl/MoGA
