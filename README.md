@@ -348,3 +348,65 @@ Others
   Reference: https://zhuanlan.zhihu.com/p/76909380
   
   Code: https://github.com/xiaomi-automl/MoGA
+
+
+#  Network Pruning
+
+**1. Learning both Weights and Connections for Efficient Neural Network.**
+
+  Paper: https://arxiv.org/abs/1506.02626
+  
+  Reference: https://xmfbit.github.io/2018/03/14/paper-network-prune-hansong/
+
+**2. Network Trimming: A Data-Driven Neuron Pruning Approach towards Efficient Deep Architectures.**
+
+  Paper: https://arxiv.org/pdf/1607.03250.pdf
+  
+  Reference: https://blog.csdn.net/hsqyc/article/details/83651795
+
+**3. Learning Structured Sparsity in Deep Neural Networks.**
+
+  Paper: https://arxiv.org/abs/1608.03665
+  
+  Reference: https://xmfbit.github.io/2018/02/24/paper-ssl-dnn/
+
+**4. L1-norm based channel pruning（Pruning Filters for Efficient ConvNets).**
+
+  Paper: https://arxiv.org/abs/1608.08710
+
+  Reference: https://blog.csdn.net/u013082989/article/details/77943240
+
+**5. Channel Pruning for Accelerating Very Deep Neural Networks.**
+
+  Paper: https://arxiv.org/abs/1707.06168
+  
+  Reference: https://www.jianshu.com/p/e4aeba86e14c 
+  
+  Code: https://github.com/yihui-he/channel-pruning
+
+**6. ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression.**
+
+  Paper: https://arxiv.org/pdf/1707.06342.pdf
+
+  Reference: https://blog.csdn.net/u014380165/article/details/77763037
+  
+**7. Learning Efficient Convolutional Networks through Network Slimming.**
+
+  Paper: https://arxiv.org/pdf/1708.06519.pdf
+  
+  Reference: https://blog.csdn.net/u011995719/article/details/78788336
+
+**8. AutoPruner: An End-to-End Trainable Filter Pruning Method for Efficient Deep Model Inference.**
+
+  Paper: https://arxiv.org/abs/1805.08941
+  
+  Reference: https://blog.csdn.net/linlb15/article/details/102711929
+
+**9. RETHINKING THE VALUE OF NETWORK PRUNING.**
+
+  Paper: https://arxiv.org/abs/1810.05270
+  
+  Reference: https://blog.csdn.net/zhangjunhit/article/details/83506306
+  
+  Code: https://github.com/Eric-mingjie/rethinking-network-pruning
+
