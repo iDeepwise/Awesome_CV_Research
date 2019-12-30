@@ -410,3 +410,27 @@ Others
   
   Code: https://github.com/Eric-mingjie/rethinking-network-pruning
 
+**10. SLIMMABLE NEURAL NETWORKS.**
+
+  Paper: https://openreview.net/pdf?id=H1gMCsAqY7  v1
+  
+  Reference: https://blog.csdn.net/qq_14845119/article/details/89453059
+
+  Code: https://github.com/JiahuiYu/slimmable_networks
+
+**8. Universally Slimmable Networks and Improved Training Techniques.**
+
+  Paper: https://arxiv.org/abs/1903.05134  v2
+  
+  Reference: https://www.zhihu.com/question/306865592
+
+  Code: https://github.com/JiahuiYu/slimmable_networks
+
+**9. AutoSlim: Towards One-Shot Architecture Search for Channel Numbers.**
+
+  Paper: https://arxiv.org/abs/1903.11728  v3
+  
+  Reference: https://zhuanlan.zhihu.com/p/75518741
+  
+  Code: https://github.com/JiahuiYu/slimmable_networks
+
