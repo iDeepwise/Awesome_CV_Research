@@ -428,9 +428,192 @@ Others
 
 **9. AutoSlim: Towards One-Shot Architecture Search for Channel Numbers.**
 
-  Paper: https://arxiv.org/abs/1903.11728  v3
+  Paper: https://arxiv.org/abs/1903.11728v3
   
   Reference: https://zhuanlan.zhihu.com/p/75518741
   
   Code: https://github.com/JiahuiYu/slimmable_networks
+
+
+#  Generative Adversarial Network
+
+**1. GAN: Generative Adversarial Nets**
+
+  Paper: https://arxiv.org/abs/1406.2661
+  
+  Reference: https://blog.csdn.net/wspba/article/details/54577236
+
+**2. CGAN: Conditional Generative Adversarial Nets**
+
+  Paper: https://arxiv.org/abs/1411.1784
+
+  Reference: https://blog.csdn.net/taoyafan/article/details/81229466
+
+  Code: https://github.com/eriklindernoren/Keras-GAN/tree/master/cgan
+
+**3. Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks**
+  
+  Paper: https://arxiv.org/abs/1506.05751
+  
+  Reference: https://www.cnblogs.com/wangxiaocvpr/p/5966776.html
+  
+  Code: http://soumith.ch/eyescream/  
+
+**4. DCGAN: unsupervised representation learning with deep convolutional generative adversarial**
+  
+  Paper: https://arxiv.org/abs/1511.06434
+  
+  Reference: https://blog.csdn.net/liuxiao214/article/details/73500737
+  
+  code: https://github.com/carpedm20/DCGAN-tensorflow
+
+**5. Improved Techniques for Training GANs**
+  
+  Paper: https://arxiv.org/abs/1606.03498
+  
+  Reference: https://blog.csdn.net/u013972559/article/details/85545339
+
+**6. InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets**
+
+  Paper: https://arxiv.org/abs/1606.03657
+  
+  Code: https://github.com/openai/InfoGAN
+
+**7. Pixel-Level Domain Transfer**
+
+  Paper: https://arxiv.org/abs/1603.07442
+
+**8. ACGAN: Conditional Image Synthesis with Auxiliary Classifier GAN**
+
+  Paper: https://arxiv.org/abs/1610.09585
+
+  Code：https://github.com/buriburisuri/ac-gan
+
+**9. CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**
+
+  Paper: https://arxiv.org/abs/1703.10593
+  
+  Reference: https://blog.csdn.net/cassiepython/article/details/80942899
+  
+  Code：https://github.com/junyanz/CycleGAN
+
+  Code：https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+
+**10. FID: GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium**
+
+  Paper: https://arxiv.org/abs/1706.08500
+
+  Reference: https://baijiahao.baidu.com/s?id=1647349368499780367&wfr=spider&for=pc
+
+**11. LSGAN: Least Squares Generative Adversarial Networks**
+
+  Paper: https://arxiv.org/abs/1611.04076v2
+  
+  Reference: https://blog.csdn.net/cuihuijun1hao/article/details/83114145
+
+  Code：https://github.com/eriklindernoren/Keras-GAN/tree/master/lsgan
+
+**12. Pix2pix: Image-to-Image Translation with Conditional Adversarial Networks**
+
+  Paper: https://arxiv.org/pdf/1611.07004v3.pdf
+
+  Code：https://phillipi.github.io/pix2pix/
+
+**13. TripleGAN: Triple Generative Adversarial Net**
+
+  Paper: https://arxiv.org/abs/1703.02291v2
+
+  Reference: https://blog.csdn.net/Forlogen/article/details/89415400
+  
+  Code: https://github.com/zhenxuan00/triple-gan
+
+**14. WGAN: Wasserstein Generative Adversarial Networks**
+
+  Paper: https://arxiv.org/abs/1701.07875
+
+  Reference: https://zhuanlan.zhihu.com/p/25071913
+
+  Code: https://github.com/eriklindernoren/Keras-GAN/tree/master/wgan
+
+**15. WGAN-GP: Improved Training of Wasserstein GANs**
+
+  Paper：http://papers.nips.cc/paper/7159-improved-training-of-wasserstein-gans.pdf
+  
+  Code: https://github.com/eriklindernoren/Keras-GAN/tree/master/wgan_gp
+
+**16. BSGAN: Boundary-Seeking Generative Adversarial Networks**
+
+  Paper: https://arxiv.org/abs/1702.08431v2
+  
+  Code: https://github.com/eriklindernoren/Keras-GAN
+
+**17. How good is my GAN?**
+
+  Paper: https://arxiv.org/abs/1807.09499
+  
+  Reference: https://zhuanlan.zhihu.com/p/43617017
+
+**18. MUNIT: Multimodal Unsupervised Image-to-Image Translation**
+
+  Paper: https://arxiv.org/abs/1804.04732
+  
+  Reference: https://blog.csdn.net/MajorDong100/article/details/84335653
+  
+  Code: https://github.com/nvlabs/MUNIT
+
+**19. PacGAN: The power of two samples in generative adversarial networks**
+
+  Paper: http://papers.nips.cc/paper/7423-pacgan-the-power-of-two-samples-in-generative-adversarial-networks.pdf
+  
+  Code: https://github.com/fjxmlzn/PacGAN
+
+**20. PGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation**
+
+  Reference: https://blog.csdn.net/weixin_42360095/article/details/89521849
+  
+  Code: https://github.com/tkarras/progressive_growing_of_gans
+
+**21. Pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs**
+
+  Reference: https://research.nvidia.com/publication/2017-12_High-Resolution-Image-Synthesis
+  
+  Code: https://github.com/NVIDIA/pix2pixHD
+
+**22. cGANs with Projection Discriminator **
+  
+  Reference: https://zhuanlan.zhihu.com/p/63353147
+  
+  Code: https://github.com/pfnet-research/sngan_projection
+
+**23. SNGAN: Spectral Normalization for Generative Adversarial Networks**
+  
+  Paper: https://arxiv.org/abs/1802.05957
+  
+  Code: https://github.com/pfnet-research/sngan_projection
+
+
+
+**24. StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks**
+
+  Paper: https://arxiv.org/abs/1812.04948
+  
+  Reference: http://www.sohu.com/a/282014920_129720
+
+**25. StyleGANv2: Analyzing and Improving the Image Quality of StyleGAN**
+
+  Paper: http://arxiv.org/abs/1912.04958
+
+  Reference: https://blog.csdn.net/WinerChopin/article/details/103538073
+  
+  Code: https://github.com/NVlabs/stylegan2
+
+**26. bigGAN: Large scale GANtraining for high fidelity natural image synthesis**
+
+  Paper: https://arxiv.org/abs/1809.11096
+
+  Code: https://github.com/ajbrock/BigGAN-PyTorch
+
+
+
+
 
